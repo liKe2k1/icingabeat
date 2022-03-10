@@ -7,7 +7,7 @@ import (
 	"github.com/elastic/beats/v7/libbeat/common"
 	"github.com/elastic/beats/v7/libbeat/logp"
 
-	"github.com/liKe2k1/icingabeat/config"
+	"github.com/like2k1/icingabeat/config"
 )
 
 // Icingabeat type

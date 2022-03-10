@@ -1,4 +1,4 @@
-module github.com/liKe2k1/icingabeat
+module github.com/like2k1/icingabeat
 
 go 1.16
 

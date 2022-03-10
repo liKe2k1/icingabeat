@@ -3,9 +3,9 @@ package main
 import (
 	"os"
 
-	"github.com/liKe2k1/icingabeat/cmd"
+	"github.com/like2k1/icingabeat/cmd"
 
-	_ "github.com/liKe2k1/icingabeat/include"
+	_ "github.com/like2k1/icingabeat/include"
 )
 
 func main() {

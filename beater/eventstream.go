@@ -1,20 +1,20 @@
 package beater
 
-import (
-	"bufio"
-	"encoding/json"
-	"io"
-	"net/url"
-	"strconv"
-	"strings"
-	"sync"
-	"time"
+"bufio"
+"encoding/json"
+"io"
+"net/url"
+"strconv"
+"strings"
+"sync"
+"time"
 
-	"github.com/like2k1/icingabeat/config"
+"github.com/like2k1/icingabeat/config"
 
-	"github.com/elastic/beats/v7/libbeat/beat"
-	"github.com/elastic/beats/v7/libbeat/common"
-	"github.com/elastic/beats/v7/libbeat/logp"
+"github.com/elastic/beats/v7/libbeat/beat"
+"github.com/elastic/beats/v7/libbeat/common"
+"github.com/elastic/beats/v7/libbeat/logp"import (
+
 )
 
 // Eventstream type
