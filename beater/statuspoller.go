@@ -8,7 +8,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/icinga/icingabeat/config"
+	"github.com/like2k1/icingabeat/config"
 
 	"github.com/elastic/beats/v7/libbeat/beat"
 	"github.com/elastic/beats/v7/libbeat/common"

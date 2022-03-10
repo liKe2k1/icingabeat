@@ -1,4 +1,4 @@
-module github.com/icinga/icingabeat
+module github.com/liKe2k1/icingabeat
 
 go 1.16
 
@@ -20,13 +20,7 @@ replace (
 )
 
 require (
-	github.com/blakesmith/ar v0.0.0-20190502131153-809d4375e1fb // indirect
-	github.com/cavaliercoder/go-rpm v0.0.0-20200122174316-8cb9fd9c31a8 // indirect
-	github.com/elastic/beats/v7 v7.14.2 // indirect
-	github.com/magefile/mage v1.11.0 // indirect
-	golang.org/x/crypto v0.0.0-20210616213533-5ff15b29337e // indirect
-	gopkg.in/jcmturner/aescts.v1 v1.0.1 // indirect
-	gopkg.in/jcmturner/dnsutils.v1 v1.0.1 // indirect
-	gopkg.in/jcmturner/goidentity.v3 v3.0.0 // indirect
-	gopkg.in/jcmturner/rpc.v1 v1.1.0 // indirect
+	github.com/elastic/beats/v7 v7.17.0
+	github.com/like2k1/icingabeat v6.5.4+incompatible
+	github.com/magefile/mage v1.11.0
 )

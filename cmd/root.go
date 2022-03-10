@@ -1,7 +1,7 @@
 package cmd
 
 import (
-	"github.com/icinga/icingabeat/beater"
+	"github.com/liKe2k1/icingabeat/beater"
 
 	cmd "github.com/elastic/beats/v7/libbeat/cmd"
 	"github.com/elastic/beats/v7/libbeat/cmd/instance"
