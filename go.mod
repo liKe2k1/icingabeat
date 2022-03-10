@@ -21,6 +21,5 @@ replace (
 
 require (
 	github.com/elastic/beats/v7 v7.17.0
-	github.com/like2k1/icingabeat v6.5.4+incompatible
 	github.com/magefile/mage v1.11.0
 )
